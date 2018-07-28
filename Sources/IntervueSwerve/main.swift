@@ -1,6 +1,7 @@
 import Dispatch
+import IntervueCore
 
-print("fuck")
+let app = IntervueApp()
 
 let group = DispatchGroup()
 group.enter()
